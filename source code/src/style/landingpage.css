@@ -1,0 +1,84 @@
+.myBG {
+    flex: 1;
+    height: 70vh;
+    width: null;
+    background: url("../assets/images/laptop/laptop.png");
+    background-size: cover;
+}
+
+.judul {
+    font-weight: bold;
+    font-size: large;
+}
+
+.content {
+    height:auto;
+    background-color: rgb(36, 21, 63);
+    background-size:cover;
+  } 
+
+.LaptopImages{
+    width:320px;
+    height: 400px;
+}
+
+.textbox {
+    background-color: rgb(201, 201, 201);
+    height: 150px;
+}
+
+.textmargin {
+    margin-top: 29px;
+}
+
+.textbold {
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.containerlaptop {
+    padding-left: 70px;
+}
+
+.imagewrap {
+    width: 93%;
+    padding-left: 30px;
+}
+
+.imagewrap2 {
+    margin-top: 68px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    height:50vh;
+    background-color: rgb(223, 223, 223);
+    background-size:cover;
+}
+
+.judulkonten {
+    font-weight: bold;
+    font-size:50px;
+}
+
+.LaptopImages2{
+    width: 350px;
+    height: 400px;
+}
+
+.imagewrap3 {
+    width: 90%;
+    padding-left: 48px;
+}
+
+.imagewrap4 {
+    margin-top: 52px;
+    margin-bottom: 50px;
+}
+
+.imagewrap5 {
+    width: 89%;
+    padding-left: 45px;
+
+}
